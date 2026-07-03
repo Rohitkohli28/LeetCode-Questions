@@ -10,6 +10,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -22,6 +23,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -35,6 +37,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
