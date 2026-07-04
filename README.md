@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -149,8 +150,13 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
