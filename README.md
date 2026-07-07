@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
