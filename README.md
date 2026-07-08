@@ -65,6 +65,7 @@
 | [0263-ugly-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1143-longest-common-subsequence](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
 |  |
 | ------- |
