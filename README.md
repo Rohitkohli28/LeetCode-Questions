@@ -38,6 +38,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
