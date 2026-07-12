@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
@@ -148,6 +149,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
