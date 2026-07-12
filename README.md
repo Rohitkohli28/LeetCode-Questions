@@ -113,6 +113,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -193,6 +194,7 @@
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
@@ -208,6 +210,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
