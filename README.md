@@ -65,6 +65,7 @@
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
@@ -112,6 +114,7 @@
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
@@ -125,6 +128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -197,6 +201,7 @@
 | [0016-3sum-closest](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -214,6 +219,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
