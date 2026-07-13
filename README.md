@@ -246,4 +246,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
