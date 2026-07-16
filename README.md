@@ -188,6 +188,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +221,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
