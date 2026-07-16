@@ -195,6 +195,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -214,6 +215,7 @@
 | [0016-3sum-closest](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -227,6 +229,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +248,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,4 +279,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
