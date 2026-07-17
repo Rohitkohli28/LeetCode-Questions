@@ -70,6 +70,7 @@
 | [0263-ugly-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -130,6 +131,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -141,6 +143,7 @@
 | [0278-first-bad-version](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -243,6 +246,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
 |  |
@@ -266,6 +271,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -273,6 +279,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -283,4 +290,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
