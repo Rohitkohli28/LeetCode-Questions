@@ -125,6 +125,7 @@
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -174,6 +175,7 @@
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [1143-longest-common-subsequence](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
