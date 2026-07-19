@@ -137,6 +137,7 @@
 | [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -173,6 +175,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -285,6 +288,7 @@
 | [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -334,4 +338,16 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
