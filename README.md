@@ -114,6 +114,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,4 +327,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
