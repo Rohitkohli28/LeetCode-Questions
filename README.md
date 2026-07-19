@@ -134,6 +134,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
@@ -265,6 +266,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -280,6 +282,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
