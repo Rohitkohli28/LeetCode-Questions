@@ -161,6 +161,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -221,10 +225,12 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,4 +371,8 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
