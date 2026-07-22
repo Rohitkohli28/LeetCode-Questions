@@ -278,6 +278,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0707-design-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0707-design-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0707-design-linked-list) |
 ## Interactive
 |  |
 | ------- |
