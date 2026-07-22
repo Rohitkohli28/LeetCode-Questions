@@ -148,6 +148,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0495-teemo-attacking](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -355,6 +356,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
