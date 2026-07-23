@@ -26,6 +26,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -50,6 +51,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -79,6 +81,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -407,4 +410,12 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
