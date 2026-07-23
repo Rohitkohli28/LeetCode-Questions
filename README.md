@@ -29,6 +29,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -53,6 +54,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0743-network-delay-time) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -84,6 +86,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
 |  |
