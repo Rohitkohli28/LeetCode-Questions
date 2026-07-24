@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -340,6 +341,7 @@
 | [0053-maximum-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
