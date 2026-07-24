@@ -17,6 +17,7 @@
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
@@ -47,6 +48,7 @@
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
@@ -81,6 +83,7 @@
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
@@ -249,6 +252,7 @@
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
