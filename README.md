@@ -105,6 +105,7 @@
 | [0029-divide-two-integers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -446,4 +448,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
