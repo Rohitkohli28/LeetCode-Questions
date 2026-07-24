@@ -31,6 +31,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -92,6 +93,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
@@ -136,6 +138,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0743-network-delay-time) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
