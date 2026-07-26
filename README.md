@@ -163,6 +163,7 @@
 | [0072-edit-distance](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -322,6 +323,7 @@
 | [0075-sort-colors](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
