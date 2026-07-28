@@ -168,6 +168,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -272,6 +273,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -311,6 +313,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
