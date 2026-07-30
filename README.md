@@ -52,6 +52,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -156,6 +157,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -206,6 +208,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0260-single-number-iii) |
@@ -256,6 +259,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -272,6 +276,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
