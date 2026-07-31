@@ -230,6 +230,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -313,6 +314,7 @@
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
