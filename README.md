@@ -121,6 +121,7 @@
 | [0326-power-of-three](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -226,6 +227,7 @@
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
@@ -317,6 +319,7 @@
 | [0198-house-robber](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -552,9 +555,14 @@
 | [0231-power-of-two](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
