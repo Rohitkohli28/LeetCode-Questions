@@ -170,6 +170,7 @@
 | [0226-invert-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0743-network-delay-time) |
@@ -238,6 +239,7 @@
 | [0495-teemo-attacking](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0695-max-area-of-island) |
@@ -308,6 +310,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -332,6 +335,7 @@
 | [0338-counting-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
