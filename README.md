@@ -238,6 +238,7 @@
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
