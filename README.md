@@ -235,6 +235,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0322-coin-change) |
@@ -310,6 +311,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -557,6 +559,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Sliding Window
 |  |
@@ -564,6 +567,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -571,6 +575,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Topological Sort
 |  |
@@ -605,4 +610,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
