@@ -1,21 +1,37 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
 
-        map.put(0, 1);
+        // Brute Force 
+        // int count = 0;
 
-        int sum = 0;
-        int count = 0;
+        // for(int i=0; i < nums.length; i++){
+        //     int sum = 0;
 
-        for (int num : nums) {
+        //     for(int j = i; j < nums.length; j++){
+        //         sum += nums[j];
 
-            sum += num;
+        //         if(sum == k){
+        //             count++;
+        //         }
+        //     }
+        // }
+        // return count;
 
-            count += map.getOrDefault(sum - k, 0);
+        // Optimse 
+       HashMap<Integer, Integer> map = new HashMap<>();
+       map.put(0, 1);
 
-            map.put(sum, map.getOrDefault(sum, 0) + 1);
-        }
+       int prefixSum = 0;
+       int count = 0;
 
-        return count; 
+       for(int num : nums){
+        prefixSum += num;
+
+        int needed = prefixSum - k;
+
+        count += map.getOrDefault(needed, 0);
+        map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
+       }
+       return count;
     }
 }
