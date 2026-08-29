@@ -1,18 +1,45 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int minEnding = nums[0];
-        int maxEnding = nums[0];
-        int result = nums[0];
+        // int n = nums.length;
+        // int maxSum = Integer.MIN_VALUE;
 
-        for(int i = 1; i<nums.length; i++){
-            int v1 = nums[i];
-            int v2 = minEnding * nums[i];
-            int v3 = maxEnding * nums[i];
+        // for (int start = 0; start < n; start++) {
 
-            minEnding = Math.min(v1, Math.min(v2, v3));
-            maxEnding = Math.max(v1, Math.max(v2, v3));
-            result = Math.max(result, Math.max(maxEnding, minEnding));
+        //     int product = 1;
+
+        //     for (int end = start; end < n; end++) {
+
+        //         product *= nums[end];
+
+        //         maxSum = Math.max(maxSum, product);
+        //     }
+        // }
+
+        // return maxSum;
+
+        // Optimse
+        int maxProduct = nums[0];
+        int minProduct = nums[0];
+        int answer = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+
+            int prevMax = maxProduct;
+            int prevMin = minProduct;
+
+            maxProduct = Math.max(
+                nums[i],
+                Math.max(prevMax * nums[i], prevMin * nums[i])
+            );
+
+            minProduct = Math.min(
+                nums[i],
+                Math.min(prevMax * nums[i], prevMin * nums[i])
+            );
+
+            answer = Math.max(answer, maxProduct);
         }
-        return result;
+
+        return answer;
     }
 }
