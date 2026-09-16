@@ -134,6 +134,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -389,6 +390,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -541,6 +543,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -559,6 +562,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
