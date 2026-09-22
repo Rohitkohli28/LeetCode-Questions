@@ -503,6 +503,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
@@ -569,6 +570,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -627,6 +629,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
@@ -710,4 +713,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3525-find-x-value-of-array-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
