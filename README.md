@@ -210,6 +210,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
@@ -240,6 +241,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 ## Array
@@ -388,6 +390,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -742,6 +745,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
