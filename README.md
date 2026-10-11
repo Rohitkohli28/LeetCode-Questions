@@ -314,6 +314,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -631,6 +632,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
