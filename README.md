@@ -37,6 +37,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -113,6 +114,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
@@ -135,6 +137,7 @@
 | [0836-rectangle-overlap](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,6 +311,7 @@
 | [1406-stone-game-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -371,6 +375,7 @@
 | [0200-number-of-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -434,6 +439,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1872-stone-game-viii) |
@@ -449,6 +455,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -610,6 +617,7 @@
 | [0190-reverse-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -641,6 +649,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -688,6 +697,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -803,4 +813,8 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
