@@ -133,6 +133,7 @@
 | [0326-power-of-three](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -294,6 +295,7 @@
 | [0268-missing-number](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Rohitkohli28/LeetCode-Questions/tree/master/0495-teemo-attacking) |
